@@ -5,13 +5,18 @@
 
 }
 
-.links{
+.links {
     color:darkolivegreen;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
     font-size: 16px;
 }
 
-img {
+.title {
     height: auto;
-    width: 500px;
+    max-width: 500px;
+    text-align: center;
+    padding: 20px;
+    border: 2px black;
   }
+
+  
